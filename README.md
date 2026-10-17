@@ -45,8 +45,8 @@ A full-stack Task Management application implementing **Practical 10: Asynchrono
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kashyapnasit109/24CS109_AWF_PRACT10.git
-cd 24CS109_AWF_PRACT10
+git clone https://github.com/cs-cspit/24CS109_AWF_PRACT_10.git
+cd 24CS109_AWF_PRACT_10
 
 # 2. Install backend dependencies
 npm install
